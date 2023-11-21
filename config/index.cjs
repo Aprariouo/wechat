@@ -36,6 +36,16 @@ const USER_CONFIG = {
       ],
     },
   ],
+
+  CALLBACK_TEMPLATE_ID: 'Qe3FxibRhEjcmwy1Wd1caTxiCzHpkddkbxi62g_qG0o',
+
+  // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
+  CALLBACK_USERS: [
+    {
+      name: '自己',
+      id: 'oRR5i6XuskRaz7v4HANjJIcLIY_U',
+    }
+  ],
 }
 
 module.exports = USER_CONFIG
