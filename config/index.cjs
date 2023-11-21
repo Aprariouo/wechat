@@ -6,16 +6,13 @@
  * 自行添加属性，以支持更多个性化功能
  */
 const USER_CONFIG = {
+ USE_PASSAGE: 'wechat-test',
  PROVINCE: '浙江',
     CITY: '绍兴',
  SWITCH: {
     /** 每日天气 */
     // 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
     weather: true,
-   
-    /** 星座运势 */
-    // 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    horoscope: true,   
   },
   TIAN_API: {
     // 天行API KEY，如果使用天行API则需要填写此项
