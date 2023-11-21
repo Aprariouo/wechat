@@ -6,12 +6,8 @@
  * 自行添加属性，以支持更多个性化功能
  */
 const USER_CONFIG = {
-
-  // 使用微信测试号：公众号APP_ID
-  //APP_ID: 'wx29b26af464e11178',
-
-  // 使用微信测试号：公众号APP_SECRET
-  //APP_SECRET: '038c039e76ac77b0c9d4d792fc5b5d40',
+ PROVINCE: '浙江',
+    CITY: '绍兴',
  SWITCH: {
     /** 每日天气 */
     // 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
@@ -35,8 +31,6 @@ const USER_CONFIG = {
       id: 'oRR5i6XuskRaz7v4HANjJIcLIY_U',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'ln88yfONLO-uE2WeXc5kGLczlYCkh3CTmlLp0M0PBJc',
-      PROVINCE: '浙江',
-      CITY: '绍兴',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '10-04',
       // 我们在一起已经有xxxx天了的配置
