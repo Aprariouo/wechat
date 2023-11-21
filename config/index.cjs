@@ -7,6 +7,8 @@
  */
 const USER_CONFIG = {
  USE_PASSAGE: 'wechat-test',
+ APP_ID: 'wx29b26af464e11178',
+ APP_SECRET: '038c039e76ac77b0c9d4d792fc5b5d40',
  PROVINCE: '浙江',
     CITY: '绍兴',
  SWITCH: {
