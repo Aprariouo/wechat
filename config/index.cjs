@@ -11,11 +11,6 @@ const USER_CONFIG = {
  APP_SECRET: '038c039e76ac77b0c9d4d792fc5b5d40',
  PROVINCE: '浙江',
     CITY: '绍兴',
- SWITCH: {
-    /** 每日天气 */
-    // 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    weather: true,
-  },
   TIAN_API: {
     // 天行API KEY，如果使用天行API则需要填写此项
     key: '145cdf19945e44741f43cf0eb22ace6c',
@@ -27,7 +22,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oRR5i6XuskRaz7v4HANjJIcLIY_U',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '_6fExgliBJ0wDza7XsJ7FhwINyeOWKFUEUAVYayfXh8',
+      useTemplateId: 'tunec3PeykBQEcYBVBPrLiHepjKED_IVMM0YHBEXTo4',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '10-04',
       // 我们在一起已经有xxxx天了的配置
