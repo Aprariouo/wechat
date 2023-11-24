@@ -38,14 +38,14 @@ const USER_CONFIG = {
         { keyword: 'love_day', date: '2023-11-11' },
       ],
     },
-   /**
+ 
        {
       // 想要发送的人的名字
       name: '老婆',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oRR5i6Y1fTAZuuT9HjwHHpN-F0UY',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '_Bmdys3L6EYZKk9kyotwsz01eVaoga_1qUDbsrXIRE0',
+      useTemplateId: 'W7ZMlOBLXk5zqWO0VVFY4i2NmRmaFONZCYdEvgR6ROc',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '10-04',
       // 我们在一起已经有xxxx天了的配置
@@ -54,7 +54,6 @@ const USER_CONFIG = {
         { keyword: 'love_day', date: '2023-11-11' },
       ],
     },
-    */
   ],
 
   CALLBACK_TEMPLATE_ID: 'Qe3FxibRhEjcmwy1Wd1caTxiCzHpkddkbxi62g_qG0o',
