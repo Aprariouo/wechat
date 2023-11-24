@@ -10,7 +10,7 @@ const USER_CONFIG = {
  APP_ID: 'wx29b26af464e11178',
  APP_SECRET: '038c039e76ac77b0c9d4d792fc5b5d40',
  PROVINCE: '',
-    CITY: '衢州',
+    CITY: '绍兴',
 
  TIAN_API: {
     // 天行API KEY，如果使用天行API则需要填写此项
