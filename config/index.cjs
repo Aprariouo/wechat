@@ -11,7 +11,10 @@ const USER_CONFIG = {
  APP_SECRET: '038c039e76ac77b0c9d4d792fc5b5d40',
  PROVINCE: '',
     CITY: '衢州',
-
+ SWITCH: {
+    // 土味情话(彩虹屁), 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
+    earthyLoveWords: true,
+ },
  TIAN_API: {
     // 天行API KEY，如果使用天行API则需要填写此项
     key: '145cdf19945e44741f43cf0eb22ace6c',
