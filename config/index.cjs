@@ -13,7 +13,7 @@ const USER_CONFIG = {
     CITY: '绍兴',
  SWITCH: {
     // 土味情话(彩虹屁), 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    earthyLoveWords: true,
+    earthyLoveWords: false,
  },
  TIAN_API: {
     // 天行API KEY，如果使用天行API则需要填写此项
@@ -29,7 +29,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oRR5i6XuskRaz7v4HANjJIcLIY_U',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '6ZC_BVFHaQllbdd0ySDImA7PjvJLjvAw00L134odtMc',
+      useTemplateId: 'rA0eTf2swn8VXf3MyGz22X-z90hvAr48aIw-522JoSc',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '10-04',
       // 我们在一起已经有xxxx天了的配置
@@ -45,7 +45,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oRR5i6Y1fTAZuuT9HjwHHpN-F0UY',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '6ZC_BVFHaQllbdd0ySDImA7PjvJLjvAw00L134odtMc',
+      useTemplateId: 'rA0eTf2swn8VXf3MyGz22X-z90hvAr48aIw-522JoSc',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '10-04',
       // 我们在一起已经有xxxx天了的配置
