@@ -53,9 +53,9 @@ const USER_CONFIG = {
         // 在一起的日子
         { keyword: 'love_day', date: '2023-11-11' },
       ],
-    },
+    },*/
   ],
-*/
+
   CALLBACK_TEMPLATE_ID: 'Qe3FxibRhEjcmwy1Wd1caTxiCzHpkddkbxi62g_qG0o',
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
