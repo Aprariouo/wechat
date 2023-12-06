@@ -38,7 +38,7 @@ const USER_CONFIG = {
         { keyword: 'love_day', date: '2023-11-11' },
       ],
     },
- 
+ /*
        {
       // 想要发送的人的名字
       name: '老婆',
@@ -55,7 +55,7 @@ const USER_CONFIG = {
       ],
     },
   ],
-
+*/
   CALLBACK_TEMPLATE_ID: 'Qe3FxibRhEjcmwy1Wd1caTxiCzHpkddkbxi62g_qG0o',
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
