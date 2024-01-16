@@ -10,7 +10,7 @@ const USER_CONFIG = {
  APP_ID: 'wx29b26af464e11178',
  APP_SECRET: '038c039e76ac77b0c9d4d792fc5b5d40',
  PROVINCE: '',
-    CITY: '绍兴',
+    CITY: '衢州',
  SWITCH: {
     // 土味情话(彩虹屁), 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
     earthyLoveWords: false,
@@ -29,7 +29,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oRR5i6XuskRaz7v4HANjJIcLIY_U',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'Bpp7S7Uija2Kzf-3XiXEIVSrlhkJCZlqAKlMMx1lQoo',
+      useTemplateId: 'YZ24EkaexT0aEQIKANmvr4a2apYrWWPGw9rUCz6u6Go',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '10-04',
       // 我们在一起已经有xxxx天了的配置
@@ -45,7 +45,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oRR5i6Y1fTAZuuT9HjwHHpN-F0UY',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'Bpp7S7Uija2Kzf-3XiXEIVSrlhkJCZlqAKlMMx1lQoo',
+      useTemplateId: 'YZ24EkaexT0aEQIKANmvr4a2apYrWWPGw9rUCz6u6Go',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '10-04',
       // 我们在一起已经有xxxx天了的配置
