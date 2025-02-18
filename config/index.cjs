@@ -10,7 +10,7 @@ const USER_CONFIG = {
  APP_ID: 'wx29b26af464e11178',
  APP_SECRET: '038c039e76ac77b0c9d4d792fc5b5d40',
  PROVINCE: '',
-    CITY: '衢州',
+    CITY: '杭州',
  SWITCH: {
     // 土味情话(彩虹屁), 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
     earthyLoveWords: false,
